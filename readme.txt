@@ -1,3 +1,3 @@
-git is a distributd version control system.mergeHanry
-git is free software distributed under the GPL.merge
+git is a distributd version control system.merge
+git is free software distributed under the GPL.mergeHanry
 Creating a new branch is quick & simple.
